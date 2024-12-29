@@ -1,0 +1,128 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700";
+@import "https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.css";
+@import "https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css";
+
+/* Custom CSS Common */
+
+/* 메뉴 hover 시 색상 변경 */
+.nav > li:hover > a {
+  color: var(--bs-app-theme) !important;
+}
+
+.runtime-hidden {
+  display: none !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* 높이 설정 */
+.vh-10 {
+  height: 10vh !important;
+}
+
+.vh-20 {
+  height: 20vh !important;
+}
+
+.vh-30 {
+  height: 30vh !important;
+}
+
+.vh-40 {
+  height: 40vh !important;
+}
+
+.vh-50 {
+  height: 50vh !important;
+}
+
+.vh-60 {
+  height: 60vh !important;
+}
+
+.vh-70 {
+  height: 70vh !important;
+}
+
+.vh-80 {
+  height: 80vh !important;
+}
+
+.vh-90 {
+  height: 90vh !important;
+}
+
+.w-10 {
+  width: 10% !important;
+}
+
+.w-20 {
+  width: 20% !important;
+}
+
+.w-30 {
+  width: 30% !important;
+}
+
+.w-40 {
+  width: 40% !important;
+}
+
+.w-60 {
+  width: 60% !important;
+}
+
+.w-70 {
+  width: 70% !important;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+.w-90 {
+  width: 90% !important;
+}
+
+.header {
+  z-index: 999 !important;
+}
+
+.border-start {
+  border-top: 1px solid #c2bebe;
+  border-left: 1px solid #c2bebe;
+}
+
+.border-end {
+  border-bottom: 1px solid #c2bebe;
+  border-right: 1px solid #c2bebe;
+}
+
+/* 메일 title bar */
+.mail__titlebar {
+  background-color: #c2bebe;
+  border-bottom: 1px solid #c2bebe;
+  height: 2rem;
+  color: #6b5958;
+  font-size: 1rem;
+}
+
+/* syncfusion control */
+.mail__container .e-de-ctnr-toolbar {
+  border-right: 1px solid #c2bebe;
+}
+
+.mail__container .e-toolbar-items {
+  border-left: 1px solid #c2bebe;
+  border-right: 1px solid #c2bebe;
+}
+
+.mail__container .e-de-tool-ctnr-properties-pane {
+  border: 1px solid #c2bebe;
+}
+
+.mail__container .e-de-pane {
+  border-left: 1px solid #c2bebe;
+}

@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\1240422\\Desktop\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\.f324a73f5ff8eb852efc1874a7c0e59b48b72f23-audit.json",
+    "files": [
+        {
+            "date": 1721174950322,
+            "name": "C:\\Users\\1240422\\Desktop\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-17.log",
+            "hash": "7fa3fdecd9157709f12db9e8fbf971fe9fb193e25787975a28d6271b4f6e097f"
+        },
+        {
+            "date": 1721259675320,
+            "name": "C:\\Users\\1240422\\Desktop\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-18.log",
+            "hash": "23d339f9690b73c982a9ee0385e73ffe3c3f824085d8cb249b74f2c8643489d9"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+**/node_modules
+**/.cache
+package-lock.json
+
+# Build
+/build
+/dist
+
+# Large files
+*.csv
+Backend/uploads/
+Frontend/node_modules/
+Backend/node_modules/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*

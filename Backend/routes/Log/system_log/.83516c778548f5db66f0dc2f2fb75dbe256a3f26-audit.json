@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\.83516c778548f5db66f0dc2f2fb75dbe256a3f26-audit.json",
+    "files": [
+        {
+            "date": 1719194153664,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-06-24.log",
+            "hash": "7b776d8c900e4a055d9d273f1d4fb983abe59e33231bba81e4baa84a245ba064"
+        },
+        {
+            "date": 1719272911137,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-06-25.log",
+            "hash": "6a1e77dce0733a14e3daf9f8496649261c98798dd6d7dba1d73c08aa417cde70"
+        },
+        {
+            "date": 1719360812403,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-06-26.log",
+            "hash": "8e6dbe21d649651997784775f9f7a936572bf63f5177c6073bbc3e33c5639b1d"
+        },
+        {
+            "date": 1719444717861,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-06-27.log",
+            "hash": "3a21798b1135f4762360a02e1cf06bb260a9a8a2f1148636766975af0d4ad35b"
+        },
+        {
+            "date": 1719531218595,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-06-28.log",
+            "hash": "1f3731149b193508382483478e84ce447d6b14519797b76e62381df5fe1a21b4"
+        },
+        {
+            "date": 1719790663284,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-01.log",
+            "hash": "c671003c6a611254b6c170edd73cc3daf8e161fdd5fd6d7455dda4bb2c307558"
+        },
+        {
+            "date": 1719876409067,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-02.log",
+            "hash": "d996858801d27ff61286e1d3e8166039f02a879372a928fa91aca8979d231ccd"
+        },
+        {
+            "date": 1719963101099,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-03.log",
+            "hash": "69e4c1786683c5cd4cc7418ed274775b86df7e8feadc39b88d2eb673cbd23e43"
+        },
+        {
+            "date": 1720051912784,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-04.log",
+            "hash": "87c100e38e9f0850b63c5d8407a9d2be4eac1456d5580d685fd5bb32d54e2876"
+        },
+        {
+            "date": 1720136339008,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-05.log",
+            "hash": "5342a0d2fc911c78965f2746900e9b02db08b8845df53a1e45ad442dc49ad869"
+        },
+        {
+            "date": 1720402026182,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-08.log",
+            "hash": "5b79e648cb2061dc6dab1a461112ee85152fe7225f9fb314b9fa600d89180715"
+        },
+        {
+            "date": 1720741775503,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-12.log",
+            "hash": "79958663b6d2f3b34bb107d9dae649fac2f09fcaa3306c0ae465ea277cc46e06"
+        },
+        {
+            "date": 1721013637514,
+            "name": "C:\\Users\\1240422\\Desktop\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-07-15.log",
+            "hash": "5ac37f304ac81027df3dbc7c2258f1c0648f2cb65998450c81dbe242bc39a186"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,160 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\.1a01c7aee10f628162eca2c6818fdfaa7a37d4a7-audit.json",
+    "files": [
+        {
+            "date": 1725414409081,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-04.log",
+            "hash": "82fc00cdb950d2d747466386d7c6dd45849b8f065415a523709387ac26feb3e3"
+        },
+        {
+            "date": 1725497024132,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-05.log",
+            "hash": "6272c8eb06eff3b18ca9c869531aadbeb19cdd3b095c71d13d657237c084314e"
+        },
+        {
+            "date": 1725586199134,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-06.log",
+            "hash": "af688137b604c5eeb4c093f86e1aa419ca1a89b504dfcba9500601449f1885dd"
+        },
+        {
+            "date": 1725838227280,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-09.log",
+            "hash": "93a54ecbe16c283f3e062f3fe71e14eecc7dd39340858acfe15803a4e18fee7c"
+        },
+        {
+            "date": 1725928617720,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-10.log",
+            "hash": "7f597c981bdde3a0f0ca050a5dffd83a033453a7ffd7150f74e2b9d82d3b685e"
+        },
+        {
+            "date": 1726012842184,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-11.log",
+            "hash": "d06ba9459d37d43ec3b194b29402481a927b0d60f0e04e6f314767a63fa29794"
+        },
+        {
+            "date": 1726100344080,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-12.log",
+            "hash": "022e978374428c46c811196e306526f6c8011ec023628733b9c10edb5ced3981"
+        },
+        {
+            "date": 1726185644788,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-13.log",
+            "hash": "d5a32e0c0edf83b0d7abda413f25b875030274a6f81ff66c0c5e97fbcda5c27f"
+        },
+        {
+            "date": 1726709190934,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-19.log",
+            "hash": "73ae32c734ae0f056f9ee0535df307d86fb998bc79d97eab576f3149d1503d23"
+        },
+        {
+            "date": 1726814344902,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-20.log",
+            "hash": "ec524b9762acac8214fa1983e31ecb3ae2ed068e5505ad4b1105bbff97cb748e"
+        },
+        {
+            "date": 1727139007306,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-24.log",
+            "hash": "111565c0bcbdeb940f4d8c35213ad2b33d04ceb159b15d8ec90c7c1214a824f9"
+        },
+        {
+            "date": 1727239217060,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-25.log",
+            "hash": "53df5815153d1d073d3a17a0e35be2ec3a5531f6022e061c6245368568932e17"
+        },
+        {
+            "date": 1727307689090,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-26.log",
+            "hash": "bf84dcff961c7cc8ffb6d3293456c31114962f12dfc041e4398f8c8285c846da"
+        },
+        {
+            "date": 1727653509752,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-09-30.log",
+            "hash": "ff289146bd7e03fd63707419cab0611b80e46a76a3c861b3c9d713710c7bf2b5"
+        },
+        {
+            "date": 1728264282426,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-07.log",
+            "hash": "a5255300248b9bb7f82cb66742750356973332f88a9a3c37874c9f4a47da9f98"
+        },
+        {
+            "date": 1728548723434,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-10.log",
+            "hash": "6d36b49a9b84fac7e47ff2e922c4138b16bebfed011b2730035c53fbaf2691ff"
+        },
+        {
+            "date": 1728626278414,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-11.log",
+            "hash": "fb56650552206a720f64a7798969a135e563f1bd0f3435654fd3774c08e95df9"
+        },
+        {
+            "date": 1728868258772,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-14.log",
+            "hash": "8d8d9769ebd55df1ab1c525834a3f485a8b35d7a3426e7815fcd119695ec0160"
+        },
+        {
+            "date": 1729037800347,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-16.log",
+            "hash": "c63c1fbf1c5a4114455125de76c73e286058f8e72a93a313ff07341380aea234"
+        },
+        {
+            "date": 1729146878554,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-17.log",
+            "hash": "aed3811d9db6f14240bb2fc4bded6b52bf4e425878a9a52abcacd658c8658736"
+        },
+        {
+            "date": 1729480153874,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-21.log",
+            "hash": "c74d6cf6b780ecf2bd558d17222864f83b41e2515a082deeb646184b9aa61170"
+        },
+        {
+            "date": 1729559497427,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-22.log",
+            "hash": "a5eb6fc216558da67bec967d0314e314e15f6f0d27149f2fab126c4a985da122"
+        },
+        {
+            "date": 1729641979780,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-23.log",
+            "hash": "223ce0c3c4d4baa53a82550de19c466a14aec54954ff015aea32fff72800d92e"
+        },
+        {
+            "date": 1729726935696,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-24.log",
+            "hash": "ddc1c1fc32a6b58011ef14876533429ef9843cdeb9c27d6d5f22b7e99dc6149c"
+        },
+        {
+            "date": 1729815212200,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-25.log",
+            "hash": "05c6f6e45a774ec56305c98e713b5e9acf58b109b574a884e26bdf9de32a68a2"
+        },
+        {
+            "date": 1730071829261,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-28.log",
+            "hash": "80d7acdcf6f3d24c4055c1286858d4333b7da1f8e9c271b34468c670c2c15327"
+        },
+        {
+            "date": 1730165745669,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-29.log",
+            "hash": "d7551b7365b68ad435aaeb2977edd3843d79ec96f05e187ce832311683c0ad12"
+        },
+        {
+            "date": 1730273857430,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-30.log",
+            "hash": "fae07dd3ac3b98f1c2c932216e76d64ebee1ebcaf6dbfd964a1604ac0d13ee60"
+        },
+        {
+            "date": 1730331581811,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-10-31.log",
+            "hash": "78381263bd577fba7b159b57fbbadb2d76b29479ccae0608869d43819d2b6717"
+        },
+        {
+            "date": 1730764986296,
+            "name": "D:\\svn\\신환경안전\\SHEtest\\back-end\\routes\\Log\\system_log\\2024-11-05.log",
+            "hash": "6d92f891a0e16ca63c562ffb6116e4af13179e90d9faa54f9c15766df45a2da6"
+        }
+    ],
+    "hashType": "sha256"
+}

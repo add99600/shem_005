@@ -1,0 +1,160 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\.8631859d7793c8e9b7337e20aaf131ca03242391-audit.json",
+    "files": [
+        {
+            "date": 1731371244568,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-12.log",
+            "hash": "c1a7f83fdd1ee4eb7c4d6573c3a911a7f36a3484d6719070bfed0f64c6a1fb30"
+        },
+        {
+            "date": 1731464902265,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-13.log",
+            "hash": "3224cce11ba0a05b5c493c3f63289693cd25efd3a6362cf4bda6ae7abb87dc33"
+        },
+        {
+            "date": 1731541562921,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-14.log",
+            "hash": "70a927f1d2554588050679d1f3e283769f922aa941baf91cd2b9dceff0a9dcc5"
+        },
+        {
+            "date": 1731889814283,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-18.log",
+            "hash": "cf369f0cde9d590683f8162b6001902f6e408bf80d6384578922bd9d2cfa6a61"
+        },
+        {
+            "date": 1731973683341,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-19.log",
+            "hash": "fa91619fb9312984452ed8cb2233a9e7c1e0f5a3a5bfe81e738ddcbe65988171"
+        },
+        {
+            "date": 1732061010523,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-20.log",
+            "hash": "215f6e5cd8200781502bf29c5b2aada29d529b8de1d00bf9d57c9b12547c6e89"
+        },
+        {
+            "date": 1732145978213,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-21.log",
+            "hash": "fe939e17e828b2cf68a226afbc63f452d0cbb116ba6c448c5f6bd3872ed40cad"
+        },
+        {
+            "date": 1732234617889,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-22.log",
+            "hash": "2447b9027bcd793a17f5161082eb253ab681c5a9305ea6426418db137e25b5ef"
+        },
+        {
+            "date": 1732499172032,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-25.log",
+            "hash": "aa0bddc7904c772e6b261edb03200ee48fb3ade7efdf53375851e63944a7079c"
+        },
+        {
+            "date": 1732580270680,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-26.log",
+            "hash": "2f1cc55a9ac885546f40d051fa256074d11d3ffa7a7074abfc5d34e5c54a2fc0"
+        },
+        {
+            "date": 1732665050205,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-27.log",
+            "hash": "bcb49da80e6ef54e60cba57ee9790fdae08239000efefa13096d81d6fc896a46"
+        },
+        {
+            "date": 1732750478529,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-28.log",
+            "hash": "c0780fc9b1239b7a34f0df2887b25718ac53c77b30565398d15640399a66c1c6"
+        },
+        {
+            "date": 1732837515060,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-11-29.log",
+            "hash": "4212a7b087221babecad3fdba236b2617677bb86fc6ed766b8a5a2162cda8260"
+        },
+        {
+            "date": 1733117575844,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-02.log",
+            "hash": "fbf67e5780779962a5d1c8bac73c33cd9d204b1efed11aaa2c072a244c55d6ca"
+        },
+        {
+            "date": 1733205447705,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-03.log",
+            "hash": "8967ad0edc26b1aad87d74195e3eb75e9046549ffceaf6352b96f91366907a23"
+        },
+        {
+            "date": 1733287239108,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-04.log",
+            "hash": "51545c0c1457ccc2deef4635e40832d520ba5a1016a9cc05417df8cbca2f9a57"
+        },
+        {
+            "date": 1733361257657,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-05.log",
+            "hash": "e73bc952d73fda352a190dca0bcb982d21eaf7c20386336a2f748fa0ee5bfbb9"
+        },
+        {
+            "date": 1733700433837,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-09.log",
+            "hash": "b937bc4891c2af659697cec3ac7c0040647e9fac562a36f27ba7c075714ab163"
+        },
+        {
+            "date": 1733788750149,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-10.log",
+            "hash": "a302775f87290731c7b7316693ec15364b45141036da328d6ba48485e132e5f1"
+        },
+        {
+            "date": 1733873427950,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-11.log",
+            "hash": "7b38ea4f33d9c4cf2e5a81cb0ce13d1e77e7a795c4b579d72cdf32e9c8d1fd88"
+        },
+        {
+            "date": 1733959891125,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-12.log",
+            "hash": "5536586263132130ee40131ea37a1c0be605d472a42499c4664f1b859a624b02"
+        },
+        {
+            "date": 1734047270062,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-13.log",
+            "hash": "4b08df12d5545e064a1b58f63c453714f0397e636dae913d3ab05a9591374e0d"
+        },
+        {
+            "date": 1734308615713,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-16.log",
+            "hash": "8fe0884f3508566dfd04b6879f2fc6bddc98b7b450f99fefc9806ec042f27bde"
+        },
+        {
+            "date": 1734398288255,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-17.log",
+            "hash": "dcaf2baff973787ef91a8624f0c5a26004d111315457b8749e1ac95f15a96f97"
+        },
+        {
+            "date": 1734479066695,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-18.log",
+            "hash": "73e623184fa14a080bf66082cdb64d5ff4d7708fe5bf0558635b11af60878b85"
+        },
+        {
+            "date": 1734566670154,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-19.log",
+            "hash": "73f9335cbe848cb046a0e385bbd98d5913bbd300e21241b1f704211e5eecdcbf"
+        },
+        {
+            "date": 1734659953322,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-20.log",
+            "hash": "c814b56fc3af411712348793fd516ed95bc1066617022c0a253e24c4d5dec50c"
+        },
+        {
+            "date": 1734911877459,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-23.log",
+            "hash": "05e91ac6b9791b349959bc543e0574e91f1684cc28d8a084442f64ac423e12ee"
+        },
+        {
+            "date": 1734998204267,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-24.log",
+            "hash": "5f9e335e92b5f5d901850f5734ebd46ef8600820f04fa85681e0a2efce481258"
+        },
+        {
+            "date": 1735193028660,
+            "name": "D:\\www\\SHE_N\\Backend\\routes\\Log\\system_log\\2024-12-26.log",
+            "hash": "6c2e9ff13289e9837bc0daa5d768390e9f6fb99efbd13ff9da13383169e01cfc"
+        }
+    ],
+    "hashType": "sha256"
+}
